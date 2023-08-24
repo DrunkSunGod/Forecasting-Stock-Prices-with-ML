@@ -1,2 +1,1 @@
-# Marketing-Management
-Course projects for marketing management
+# Forecasting Stock Prices with ML
